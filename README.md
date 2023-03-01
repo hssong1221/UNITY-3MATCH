@@ -13,7 +13,7 @@
 3. 터지면서 특수블록인 쿠기가 생성
 <img src = "https://user-images.githubusercontent.com/22339258/222062556-2b92d8c1-e215-4fb2-bcaf-d2e6eb2048e5.png" width="25%" height="25%">
   
-4. 쿠기가 지나가는 방향에 있는 모든 블록이 
+4. 쿠기가 지나가는 방향에 있는 모든 블록이 터지도록 구현
 <img src = "https://user-images.githubusercontent.com/22339258/222062559-509cacf1-c6c4-4d42-a360-3b713fb640a0.png" width="25%" height="25%">
   
 
