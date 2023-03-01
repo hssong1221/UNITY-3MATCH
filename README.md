@@ -7,7 +7,7 @@
 1. 오른쪽 아래있는 노란 블록을 주목
 <img src = "https://user-images.githubusercontent.com/22339258/222062553-fe59ce99-b542-41fa-a3da-ea6fb003f26d.png" width="25%" height="25%">
   
-2. 2x2 배열로 만드는 시도
+2. 2x2 모양으로 만드는 시도
 <img src = "https://user-images.githubusercontent.com/22339258/222062555-230f388b-6465-439b-a65d-32b5ea8b8548.png" width="25%" height="25%">
   
 3. 터지면서 특수블록인 쿠기가 생성
